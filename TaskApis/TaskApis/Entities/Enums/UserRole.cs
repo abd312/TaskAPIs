@@ -5,6 +5,6 @@
         Admin,
         User,
         test,
-        test2
+        test2Edited
     }
 }
